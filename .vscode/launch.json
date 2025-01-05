@@ -1,8 +1,0 @@
-{
-    "name": "Python: Current File",
-    "type": "python",
-    "request": "launch",
-    "program": "${file}",
-    "pythonPath": "/Library/Frameworks/Python.framework/Versions/3.11/bin/"  // 替换为你的 Python 路径
-  }
-  
